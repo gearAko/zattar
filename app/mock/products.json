@@ -1,0 +1,114 @@
+[
+  {
+    "id": "p1",
+    "category": ["electronics", "laptops", "gaming"],
+    "slug": "gaming-laptop-1",
+    "title": "Игровой ноутбук X1",
+    "price": 599000,
+    "popularity": 98,
+    "isNew": true,
+    "createdAt": "2025-09-01T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p2",
+    "category": ["electronics", "laptops", "ultrabooks"],
+    "slug": "ultrabook-1",
+    "title": "Ультрабук Air 13",
+    "price": 429000,
+    "popularity": 80,
+    "isNew": false,
+    "createdAt": "2025-06-15T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p3",
+    "category": ["electronics", "phones", "android"],
+    "slug": "android-phone-1",
+    "title": "Смартфон Droid A5",
+    "price": 149000,
+    "popularity": 92,
+    "isNew": true,
+    "createdAt": "2025-09-10T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p4",
+    "category": ["home", "appliances", "washers"],
+    "slug": "washer-1",
+    "title": "Стиральная машина Clean 7",
+    "price": 289000,
+    "popularity": 70,
+    "isNew": false,
+    "createdAt": "2024-12-20T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p5",
+    "category": ["electronics", "phones", "ios"],
+    "slug": "iphone-1",
+    "title": "Смартфон iPhone Z",
+    "price": 399000,
+    "popularity": 95,
+    "isNew": false,
+    "createdAt": "2025-08-01T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p6",
+    "category": ["electronics", "audio", "headphones"],
+    "slug": "headphones-1",
+    "title": "Наушники Studio One",
+    "price": 79000,
+    "popularity": 77,
+    "isNew": true,
+    "createdAt": "2025-09-18T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p7",
+    "category": ["electronics", "audio", "speakers"],
+    "slug": "speaker-1",
+    "title": "Портативная колонка Wave",
+    "price": 49000,
+    "popularity": 60,
+    "isNew": false,
+    "createdAt": "2025-05-25T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p8",
+    "category": ["home", "appliances", "fridges"],
+    "slug": "fridge-1",
+    "title": "Холодильник Frost+",
+    "price": 359000,
+    "popularity": 65,
+    "isNew": true,
+    "createdAt": "2025-07-22T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p9",
+    "category": ["home", "kitchen", "coffee"],
+    "slug": "coffee-1",
+    "title": "Кофемашина Barista Mini",
+    "price": 159000,
+    "popularity": 72,
+    "isNew": false,
+    "createdAt": "2025-03-30T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  },
+  {
+    "id": "p10",
+    "category": ["sport", "fitness", "trackers"],
+    "slug": "tracker-1",
+    "title": "Фитнес‑трекер Fit X",
+    "price": 39000,
+    "popularity": 88,
+    "isNew": true,
+    "createdAt": "2025-09-20T10:00:00.000Z",
+    "image": "https://placehold.co/800x600/png?text=Product"
+  }
+]
+
+

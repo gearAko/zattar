@@ -1,0 +1,80 @@
+[
+  {
+    "id": "electronics",
+    "name": "Электроника",
+    "slug": "electronics",
+    "children": [
+      {
+        "id": "laptops",
+        "name": "Ноутбуки",
+        "slug": "laptops",
+        "children": [
+          { "id": "gaming", "name": "Игровые", "slug": "gaming", "children": [] },
+          { "id": "ultrabooks", "name": "Ультрабуки", "slug": "ultrabooks", "children": [] },
+          { "id": "2-in-1", "name": "Трансформеры", "slug": "2-in-1", "children": [] }
+        ]
+      },
+      {
+        "id": "phones",
+        "name": "Смартфоны",
+        "slug": "phones",
+        "children": [
+          { "id": "android", "name": "Android", "slug": "android", "children": [] },
+          { "id": "ios", "name": "iPhone", "slug": "ios", "children": [] }
+        ]
+      },
+      {
+        "id": "audio",
+        "name": "Аудио",
+        "slug": "audio",
+        "children": [
+          { "id": "headphones", "name": "Наушники", "slug": "headphones", "children": [] },
+          { "id": "speakers", "name": "Колонки", "slug": "speakers", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "home",
+    "name": "Дом и быт",
+    "slug": "home",
+    "children": [
+      {
+        "id": "appliances",
+        "name": "Бытовая техника",
+        "slug": "appliances",
+        "children": [
+          { "id": "washers", "name": "Стиральные машины", "slug": "washers", "children": [] },
+          { "id": "fridges", "name": "Холодильники", "slug": "fridges", "children": [] }
+        ]
+      },
+      {
+        "id": "kitchen",
+        "name": "Кухня",
+        "slug": "kitchen",
+        "children": [
+          { "id": "coffee", "name": "Кофемашины", "slug": "coffee", "children": [] },
+          { "id": "blenders", "name": "Блендеры", "slug": "blenders", "children": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sport",
+    "name": "Спорт",
+    "slug": "sport",
+    "children": [
+      {
+        "id": "fitness",
+        "name": "Фитнес",
+        "slug": "fitness",
+        "children": [
+          { "id": "trackers", "name": "Фитнес‑трекеры", "slug": "trackers", "children": [] },
+          { "id": "yoga", "name": "Йога", "slug": "yoga", "children": [] }
+        ]
+      }
+    ]
+  }
+]
+
+
